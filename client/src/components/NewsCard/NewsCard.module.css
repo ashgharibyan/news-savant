@@ -1,0 +1,46 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-bottom: 10px solid white;
+
+}
+
+.image {
+    height: 250px
+}
+
+.topHeader {
+    display: flex;
+    justify-content: space-between;
+    margin: 16px;
+    
+}
+
+.title {
+    padding: 0 16px;
+    color: #301e32;
+}
+
+.cardActions {
+    padding: 0 16px 8px 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    
+}
+
+.activeCard {
+    border-bottom: 10px solid #bd35f9;
+}
+
+.fullHeightCard {
+    height: 100%;
+}
+
+.border {
+    border: solid;
+}

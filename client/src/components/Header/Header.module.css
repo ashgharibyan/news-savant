@@ -1,0 +1,32 @@
+.header {
+    color: #bd35f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+    margin-bottom: 1%;
+}
+
+
+.rightSide {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 3;
+}
+
+.leftSide {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btnStyle {
+    color: #301e32 !important;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #bd35f9;
+}
