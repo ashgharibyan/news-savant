@@ -9,10 +9,10 @@
 
 Voice features:
 - Search news by:
-- - Latest News
-- - Terms
-- - Sources
-- - Categories
+  - Latest News
+  - Terms
+  - Sources
+  - Categories
 
 - Option to read the news after generating
 - Say "Open news number #"
