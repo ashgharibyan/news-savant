@@ -1,5 +1,5 @@
 # An Artificial Intelligence News Application
-### News search by voice using AI bot, React, Alan AI, Material UI, Javascript, CSS, Express, News API
+### News search by voice using AI bot, React, Alan AI, Material UI, Javascript, CSS, News API
 
 - Developed a user-friendly UI with automatic scrolling and generation features using React functional components, improving the overall user experience.
 - Implemented an end-to-end conversational AI platform with Alan AI, enabling the creation of robust and reliable in-app assistants that can improve user engagement and satisfaction.
