@@ -7,7 +7,7 @@
 - Ensured style consistency across all components of the UI using Material UI, enhancing the visual appeal and ease of use for users.
 - Integrated News API to allow users to generate recent news based on categories, search terms, or sources, providing a comprehensive and customizable news experience.
 
-Voice features:
+#### Voice features:
 - Search news by:
   - Latest News
   - Terms
